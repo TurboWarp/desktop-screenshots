@@ -6,7 +6,7 @@ Keeping these directly in https://github.com/TurboWarp/desktop/ feels like bloat
 
 Download https://scratch.mit.edu/projects/425020125/
 
-Only save as PNG. Run `compress.sh` after modifying. You'll need `sudo apt install optipng webp`.
+Only save as PNG. Run `make -j4` after modifying. You'll need `sudo apt install optipng webp`.
 
 Windows:
 
