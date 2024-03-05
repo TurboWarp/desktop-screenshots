@@ -27,4 +27,5 @@ Flathub:
  - Resize window to be as thin as it can while showing full content
  - Take a screenshot including the window controls
  - Open the screenshots in GIMP, expand canvas width and height by 64 pixels, center
- - Apply drop shadow filter: x 0, y 0, blur radius 32, opacity 1
+ - Remove ugly black pixels in top corners
+ - Apply drop shadow filter: x 0, y 0, blur radius 16, opacity 0.5
